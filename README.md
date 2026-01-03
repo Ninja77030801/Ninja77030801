@@ -2,7 +2,7 @@
 ## Information about one of the most ambitious developers on this planet
 ---
 
-<img src="wallpaper.png" style="width: 300px; height: 500px">
+<img src="Wallpaper.png" style="width: 300px; height: 500px">
 
 I am Ninja77030, and I started learning to code since I was twelve, gaining experience in:
 
@@ -19,4 +19,5 @@ And later on, in:
   <li>C#</li>
   <li></li>
 </ul>
+
 
