@@ -2,7 +2,7 @@
 ## Information about one of the most ambitious developers on this planet
 ---
 
-<img src="Wallpaper.png" style="width: 300px; height: 500px">
+<img src="Wallpaper.png" style="width: 300px; height: 500px; align-content: center; border-radius: 4px;">
 
 I am Ninja77030, and I started learning to code since I was twelve, gaining experience in:
 
@@ -26,3 +26,4 @@ Soon, I started acquiring experience and gaining skill in fields such as:
 Fun fact (Wanna decode this? It's Base64): `SSBsaWtlIHNsZWVwaW5nIGFuZCBnYW1pbmcgdG9vIQ==`
 
 For more info on how to contact me, <a href="http://guns.lol/ninja77030">check this out.</a>
+
