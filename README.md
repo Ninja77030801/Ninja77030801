@@ -1,6 +1,5 @@
-# My name is Ninja77030, and I'm glad you're reading this right now
-## Information about one of the most ambitious developers on this planet
----
+<h1 align="center"> My name is Ninja77030, and I'm glad you're reading this right now</h1>
+<h2 align="center">Information about one of the most ambitious developers on this planet</h2>
 
 <img src="Wallpaper.png" align="center" width="218.5" height="450">
 
