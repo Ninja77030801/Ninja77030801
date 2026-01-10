@@ -4,7 +4,7 @@
 
 <img src="Wallpaper.png" align="center" width="218.5" height="450">
 
-I am Ninja77030, and I started learning to code since I was twelve, gaining experience in:
+I am Ninja77030, a first-year computer engineering undergraduate, and I started learning to code since I was twelve, gaining experience in:
 
 <ul>
   <li>Python</li>
