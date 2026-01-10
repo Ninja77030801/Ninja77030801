@@ -23,6 +23,15 @@ Soon, I started acquiring experience and gaining skill in fields such as:
   <li>Cybersecurity (Still learning 😅 - Encryption and pentesting)</li>
 </ul>
 
+I am a quadrilingual, i.e, I can speak
+
+| Language | Fluency |
+|----------|---------|
+| English | ████████████████████ 100% |
+| Hindi | ██████████████ 75% |
+| Bengali | ███████████ 60% |
+| Spanish | ████████ 40% |
+
 Fun fact (Wanna decode this? It's Base64): `SSBsaWtlIHNsZWVwaW5nIGFuZCBnYW1pbmcgdG9vIQ==`
 
 For more info on how to contact me, <a href="http://guns.lol/ninja77030">check this out.</a>, and do check out my <a href="Ninja77030.asc">public key here!</a>.
