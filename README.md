@@ -1,7 +1,7 @@
 <h1 align="center"> My name is Ninja77030, and I'm glad you're reading this right now</h1>
 <h2 align="center">Information about one of the most ambitious developers on this planet</h2>
 
-<img src="Wallpaper.png" align="center" width="218.5" height="450">
+<span align="center"><img src="Wallpaper.png" width="218.5" height="450"></span>
 
 I am Ninja77030, a first-year computer engineering undergraduate, and I started learning to code since I was twelve, gaining experience in:
 
@@ -33,7 +33,7 @@ I am a quadrilingual, i.e, I can speak
 
 Fun fact (Wanna decode this? It's Base64): `SSBsaWtlIHNsZWVwaW5nIGFuZCBnYW1pbmcgdG9vIQ==`
 
-For more info on how to contact me, <a href="http://guns.lol/ninja77030">check this out.</a>, and do check out my <a href="Ninja77030.asc">public key here!</a>.
+<marquee>For more info on how to contact me, <a href="http://guns.lol/ninja77030">check this out.</a>, and do check out my <a href="Ninja77030.asc">public key here!</a>.</marquee>
 
 
 
